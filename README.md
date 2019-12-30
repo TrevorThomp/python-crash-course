@@ -1,5 +1,4 @@
 # python-crash-course
 
-![Screenshot][url=https://postimg.cc/4YgsLfxn][img]https://i.postimg.cc/4YgsLfxn/goodbye-route.jpg[/img][/url]
-
-![Screenshot][url=https://postimg.cc/G96cDJ0F][img]https://i.postimg.cc/G96cDJ0F/home.jpg[/img][/url]
+![home](https://user-images.githubusercontent.com/46389554/71595405-49fc2380-2af0-11ea-8d26-6b260c536907.JPG)
+![goodbye route](https://user-images.githubusercontent.com/46389554/71595406-49fc2380-2af0-11ea-85c4-a1edb549dcd6.JPG)
