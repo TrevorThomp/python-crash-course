@@ -1,4 +1,8 @@
 routes = {
-  '/' : 'Hello Word',
-  '/goodbye' : 'Goodbye World'
+  '/' : {
+    'template' : 'index.html'
+  },
+  '/goodbye' : {
+    'template' : 'goodbye.html'
+  }
 }
