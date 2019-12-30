@@ -5,7 +5,7 @@ class Server(BaseHTTPRequestHandler):
   def do_POST(self):
     return
   def do_GET(self):
-    return
+    self.respond()
   def handle_http(self, status, content_type):
     self.send_response(status)
     self.send_header('Content-type', content_type)
